@@ -1,2 +1,2 @@
 # Personal_CV
-A CV template
+A CV template suitable for students major in CS
